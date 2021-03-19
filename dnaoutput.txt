@@ -1,0 +1,8 @@
+Sequence Given: MY NOME IS JEK WHOKY IS ERS
+Complement: 
+Reverse Complement: 
+Sequence Given: AGCTUACTGCUA
+Complement: TCGATGACGT
+Reverse Complement: TGCAGTAGCT
+
+
